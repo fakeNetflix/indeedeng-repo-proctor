@@ -67,7 +67,7 @@
         $jackson.version defined in parent pom for old codehaus jackson
         -->
         <jackson.core.version>2.7.9</jackson.core.version>
-        <jackson-databind.version>2.7.9.5</jackson-databind.version>
+        <jackson-databind.version>2.9.10.1</jackson-databind.version>
         <junit.version>4.12</junit.version>
         <mockito.version>1.9.5</mockito.version>
         <assertj.version>3.6.2</assertj.version>
